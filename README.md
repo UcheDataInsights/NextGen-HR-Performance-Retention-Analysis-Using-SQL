@@ -60,36 +60,48 @@ The HR department needed insights into:
 🔁 Employee
 
 1. Who are the top 5 highest serving employees**?
+<img width="1380" height="487" alt="Image" src="https://github.com/user-attachments/assets/bcdc96dd-e52d-486f-9a1e-6a94c098aba4" />
 
 2. Which departments have the **highest turnover rates**?
+<img width="826" height="541" alt="Image" src="https://github.com/user-attachments/assets/9ac10725-f366-4bdd-b3b7-44b2115eaff0" />
 
 3. Which employees are at risk of leaving based on their performance?
+<img width="1042" height="568" alt="Image" src="https://github.com/user-attachments/assets/79518367-6d9b-403c-a224-3bfd73878f5c" />
 
 4. What are the **main reasons behind employee exits**?
+<img width="767" height="440" alt="Image" src="https://github.com/user-attachments/assets/17d04096-0141-451d-ac03-a3e5d6c104a6" />
 
 
-
+##
 📈 Performance
 
 1. How many employees have left the company?
+<img width="546" height="386" alt="Image" src="https://github.com/user-attachments/assets/d917240c-79fb-4700-a726-163364b2021c" />
 
 2. Who are the **top and bottom performers** by department?
+<img width="1039" height="320" alt="Image" src="https://github.com/user-attachments/assets/c6e96b1c-989d-4697-a9fb-72777c2e1d1d" />
 
 3. How is **performance distributed** across departments on average?
+<img width="789" height="446" alt="Image" src="https://github.com/user-attachments/assets/47d17f7e-3fb7-404e-956b-c6aadc2d9a19" />
 
 4. What is the average performance score by department?
+<img width="628" height="493" alt="Image" src="https://github.com/user-attachments/assets/e82b35ba-a06b-4483-97c2-810bf3841ed8" />
 
 
+##
 💰 Salary
 
 1. What is the total salary expense for the company?
+<img width="810" height="335" alt="Image" src="https://github.com/user-attachments/assets/1f8c48aa-0e78-4e6a-8b79-554e4d7e4776" />
 
 2. What is the average salary by job title?
+<img width="964" height="493" alt="Image" src="https://github.com/user-attachments/assets/8f249795-0d52-4356-9f45-0b31ee881b3a" />
 
 3. How many employees earn above 80,000?
+<img width="481" height="361" alt="Image" src="https://github.com/user-attachments/assets/118faf19-8c6d-4fd4-8210-8866024eb261" />
 
 4. How does performance correlate with salary across departments?
-
+<img width="776" height="572" alt="Image" src="https://github.com/user-attachments/assets/3050b1f3-d93b-4f94-96ba-f796be810b19" />
 
 ---
 
